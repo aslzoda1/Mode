@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    android:gravity="center_horizontal"
+    android:background="#FFFFFF">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Welcome !"
+        android:textSize="32sp"
+        android:textStyle="italic"
+        android:layout_marginTop="40dp"
+        android:textColor="#000000" />
+
+    <EditText
+        android:id="@+id/etName"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/input_bg"
+        android:hint="Enter your name"
+        android:paddingLeft="15dp"
+        android:textAllCaps="true" />
+
+    <Button
+        android:id="@+id/btnSave"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="💾 Save"
+        android:backgroundTint="#4CAF50"
+        android:layout_marginTop="20dp"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btnShow"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="👀 Show"
+        android:backgroundTint="#2196F3"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:id="@+id/btnDelete"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🗑️ Delete"
+        android:backgroundTint="#F44336"
+        android:layout_marginTop="10dp"
+        android:textColor="#FFFFFF" />
+
+    <TextView
+        android:id="@+id/tvGreeting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello, User 👋"
+        android:textSize="20sp"
+        android:layout_marginTop="20dp"
+        android:textColor="#000000" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="center"
+        android:background="#F0EBF4"
+        android:padding="10dp"
+        android:layout_marginTop="40dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="☀️ Light Mode"
+            android:textSize="18sp" />
+
+        <Switch
+            android:id="@+id/themeSwitch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnExit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="🚪 Exit"
+        android:backgroundTint="#9C27B0"
+        android:layout_marginTop="30dp"
+        android:textColor="#FFFFFF" />
+
+</LinearLayout>
