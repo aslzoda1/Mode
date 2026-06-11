@@ -9,8 +9,7 @@
 ---
 
 ### 🚀 Overview
-**Mode** — bu oddiy mavzu almashtirgich emas, balki foydalanuvchi kayfiyatiga moslashuvchi aqlli interfeysdir. **Java** va **XML** yordamida yaratilgan ushbu ilova minimalizm va funksionallikni o'zida mujassam etgan.
-
+**Mode** — 𝒃𝒖 𝒐𝒅𝒅𝒊𝒚 𝒎𝒂𝒗𝒛𝒖 𝒂𝒍𝒎𝒂𝒔𝒉𝒕𝒊𝒓𝒈𝒊𝒄𝒉 𝒆𝒎𝒂𝒔, 𝒃𝒂𝒍𝒌𝒊 𝒇𝒐𝒚𝒅𝒂𝒍𝒂𝒏𝒖𝒗𝒄𝒉𝒊 𝒌𝒂𝒚𝒇𝒊𝒚𝒂𝒕𝒊𝒈𝒂 𝒎𝒐𝒔𝒍𝒂𝒔𝒉𝒖𝒗𝒄𝒉𝒊 𝒂𝒒𝒍𝒍𝒊 𝒊𝒏𝒕𝒆𝒓𝒇𝒆𝒚𝒔𝒅𝒊𝒓. **𝑱𝒂𝒗𝒂** 𝒗𝒂 **𝑿𝑴𝑳** 𝒚𝒐𝒓𝒅𝒂𝒎𝒊𝒅𝒂 𝒚𝒂𝒓𝒂𝒕𝒊𝒍𝒈𝒂𝒏 𝒖𝒔𝒉𝒃𝒖 𝒊𝒍𝒐𝒗𝒂 𝒎𝒊𝒏𝒊𝒎𝒂𝒍𝒊𝒛𝒎 𝒗𝒂 𝒇𝒖𝒏𝒌𝒔𝒊𝒐𝒏𝒂𝒍𝒍𝒊𝒌𝒏𝒊 𝒐'𝒛𝒊𝒅𝒂 𝒎𝒖𝒋𝒂𝒔𝒔𝒂𝒎 𝒆𝒕𝒈𝒂𝒏.
 ---
 
 ### 📸 App Showreel
